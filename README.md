@@ -1,16 +1,28 @@
-## Hi there 👋
+# About me.
 
-<!--
-**pedrovcecilio/pedrovcecilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  Sou desenvolvedor full stack com experiência em <strong>C#, .NET, React, SQL e APIs.</strong><br>
+    Atualmente, estou trabalhando no desenvolvimento de aplicações web e sempre buscando aprimorar minhas habilidades.
+  </p>
+  
+<p align="left">
+  🔭 Linguagens: **C#, .NET, React, SQL.**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Visual Studio, VSCode**
+</p>
+
+<p align="left">
+  📫 Para entrar em contato comigo, me envie uma mensagem no meu e-mail ou LinkedIn. Estou sempre aberto para trocar ideias e colaborar em novos projetos ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedrovcecilio@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrovictorcecilio/" alt="LinkedIn"/></a>
+</p>
